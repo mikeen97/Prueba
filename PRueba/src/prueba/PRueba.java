@@ -16,6 +16,9 @@ public class PRueba {
      */
     public static void main(String[] args) {
         System.out.println("Te la comes toda");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("TE la comes 2x");
+        }
     }
     
 }
